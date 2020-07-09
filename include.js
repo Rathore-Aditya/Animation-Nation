@@ -7,6 +7,13 @@
     githubLink: "https://github.com/shivam12k",
   },
   {
+    artName: "SeriesPhotoAlbum ",
+    pageLink: "./Art/rathore/index.html",
+    videoLink: "./Art/rathore/rat.net-gifmaker.gif",
+    author: "Rathore-Aditya",
+    githubLink: "https://github.com/Rathore-Aditya",
+  },
+  {
     artName: "PrimaryColors",
     pageLink: "./Art/primarycolors/index.html",
     videoLink: "./Art/primarycolors/primarycolors.gif",
