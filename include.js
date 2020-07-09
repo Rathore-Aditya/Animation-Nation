@@ -7,7 +7,7 @@
     githubLink: "https://github.com/shivam12k",
   },
   {
-    artName: "AnimatedPhotoAlbum ",
+    artName: "AnimatedAlbum ",
     pageLink: "./Art/rathore/index.html",
     videoLink: "./Art/rathore/rat.net-gifmaker.gif",
     author: "Rathore-Aditya",
