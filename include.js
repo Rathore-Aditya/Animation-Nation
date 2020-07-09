@@ -9,7 +9,7 @@
   {
     artName: "AnimatedAlbum ",
     pageLink: "./Art/rathore/index.html",
-    videoLink: "./Art/rathore/rat.net-gifmaker.gif",
+    videoLink: "./Art/rathore/rat.gif",
     author: "Rathore-Aditya",
     githubLink: "https://github.com/Rathore-Aditya",
   },
